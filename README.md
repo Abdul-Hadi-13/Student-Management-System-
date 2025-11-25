@@ -1,2 +1,2 @@
-# Student-Mnagement-System-
+# Student-Management-System-
 this is my student management system
